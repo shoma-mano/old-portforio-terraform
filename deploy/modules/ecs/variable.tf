@@ -1,0 +1,9 @@
+variable "TargetGroupArn" {}
+variable "EnvironmentName" {}
+variable "TaskName" {}
+variable "TaskCount" {}
+variable "ContainerDefinitios" {}
+variable "ServiceSubnets" {}
+variable "ServiceSecurityGroups" {}
+variable "ServiceName" {}
+variable "ClusterId" {}
